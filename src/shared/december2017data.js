@@ -37,10 +37,10 @@ const december2017data = [
     about: 'Real football',
   },
   {
-		name: "Ravi Varanasi",
-		twitter: "ravi116",
-		about: "Real football"
-	}
+    name: "Ravi Varanasi",
+    twitter: "ravi116",
+    about: "Real football"
+  },
 ];
 
 export default december2017data;
