@@ -36,6 +36,11 @@ const december2017data = [
     twitter: 'FCDallas',
     about: 'Real football',
   },
+  {
+		name: "Ravi Varanasi",
+		twitter: "ravi116",
+		about: "Real football"
+	}
 ];
 
 export default december2017data;
